@@ -5,4 +5,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a = "' Doniyor4 ' "
+    return len(a)
+print(main())
