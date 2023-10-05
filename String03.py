@@ -6,6 +6,6 @@ def main():
     Returns:
         str: return answer.
     """
-    b="'PYTHONUZ'"
-    return len(b)
+    b="*"
+    return b*5
 print(main())
